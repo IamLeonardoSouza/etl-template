@@ -1,0 +1,10 @@
+database:
+  host: "localhost"  # Database host
+  port: 5432  # Database port
+  user: "user"  # Database user
+  password: "password"  # Database password
+  db_name: "etl_demo"  # Database name
+
+api:
+  endpoint: "https://api.publicapis.org/entries"  # API endpoint
+  timeout: 30
