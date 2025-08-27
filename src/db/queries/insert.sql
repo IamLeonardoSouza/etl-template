@@ -1,0 +1,1 @@
+INSERT INTO "tabela_do_banco_de_dados" ("coluna1", "coluna2", "coluna3") VALUES ('valor1', 'valor2', 'valor3');
