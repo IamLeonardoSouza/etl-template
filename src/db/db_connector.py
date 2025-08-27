@@ -1,4 +1,5 @@
 """
+Module: db_connector
 This module provides the `SQLDatabaseConnector` class for connecting to and interacting with a Microsoft SQL Server database using PyODBC.
 
 The class allows for establishing a connection to the database, executing SQL queries, and closing the connection.
