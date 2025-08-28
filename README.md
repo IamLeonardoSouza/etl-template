@@ -4,6 +4,7 @@ A **professional and modular ETL project template**, designed following best pra
 
 ## Project Structure
 
+```bash
 etl-template/
 │
 ├── config/            # Configuration files (YAML, JSON) and environment variables
@@ -27,6 +28,7 @@ etl-template/
 ├── dags/              # Airflow DAGs for scheduling ETL jobs (optional)
 ├── .env               # Environment variables for credentials and configs
 └── README.md
+```
 
 ## Features
 
